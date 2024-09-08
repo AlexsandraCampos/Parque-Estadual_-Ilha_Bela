@@ -25,3 +25,6 @@ A página do projeto "Ilha Bela" pode incluir seções como:
 ### Conclusão
 
 O projeto "Ilha Bela" foi uma excelente oportunidade para consolidar os conhecimentos em HTML e CSS, permitindo que os alunos criassem uma página web funcional e visualmente agradável. A prática com tags básicas e a aplicação de estilos simples foram fundamentais para o entendimento do desenvolvimento web.
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
